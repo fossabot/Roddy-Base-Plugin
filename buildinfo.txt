@@ -1,4 +1,4 @@
-dependson=DefaultPlugin:current
+dependson=DefaultPlugin:1.2.0
 JDKVersion=1.8
 GroovyVersion=2.4
 RoddyAPIVersion=2.4
